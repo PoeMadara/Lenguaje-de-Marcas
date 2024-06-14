@@ -1,0 +1,5 @@
+Imaginemos que tienes un artículo con la siguiente información:
+Título: "Cómo Crear un Feed Atom"
+Enlace: "https://www.ejemplo.com/como-crear-un-feed-atom"
+Resumen: "Descubre los pasos para crear un feed Atom y compartir tu contenido en línea."
+Fecha de Publicación: "2023-12-02T12:00:00Z"

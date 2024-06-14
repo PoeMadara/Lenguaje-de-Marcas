@@ -1,0 +1,6 @@
+Imaginemos que tienes un episodio con la siguiente información:
+Título del Episodio: "Entrevista con Expertos"
+Enlace del Episodio: "https://www.ejemplo.com/episodio1"
+Descripción del Episodio: "Conversación con líderes en la industria sobre temas interesantes."
+Fecha de Publicación del Episodio: "2023-12-03"
+Duración del Episodio: "00:30:00"

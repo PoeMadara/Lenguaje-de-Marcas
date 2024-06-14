@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias Deportivas</title>
+        <link>https://ejemplo.com</link>
+        <description>Las últimas noticias deportivas</description>
+        <item>
+            <title>Sorprendente Remontada en el Campeonato de Fútbol</title>
+            <description>En un emocionante partido de fútbol, el equipo local, "Los Rayos", logró una increíble remontada en los últimos minutos. A pesar de estar 0-2 abajo en el marcador, marcaron tres goles consecutivos en el tiempo de descuento y ganaron 3-2. Los aficionados enloquecieron de alegría mientras los jugadores celebraban en el campo. ¡Una victoria épica que quedará en la historia!</description>
+            <link>https://ejemplo.com/noticia1</link>
+            <category>Deportes</category>
+            <pubDate>2024-03-17</pubDate>
+        </item>
+        <item>
+            <title>Récord Mundial en Natación</title>
+            <description>La nadadora olímpica, Laura Rodríguez, estableció un nuevo récord mundial en los 100 metros estilo libre. Nadando con una determinación feroz, completó la distancia en tan solo 47.89 segundos, superando la marca anterior por 0.15 segundos. Los espectadores en la piscina quedaron boquiabiertos mientras Laura tocaba la pared y se convertía en la nadadora más rápida del mundo. ¡Un logro asombroso para la joven atleta!</description>
+            <link>https://ejemplo.com/noticia2</link>
+            <category>Deportes</category>
+            <pubDate>2024-03-16</pubDate>
+        </item>
+    </channel>
+</rss>
